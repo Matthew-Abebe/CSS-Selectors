@@ -9,7 +9,7 @@ header {
  header nav ul {
     list-style-type: none;
     text-align: center;
-    display: flex;
+    display: inline-flex;
     word-spacing: 50px; /*Not working yet*/
 }
 
